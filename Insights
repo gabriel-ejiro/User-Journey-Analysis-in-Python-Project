@@ -1,0 +1,8 @@
+Now you have finished all the code, implementing the metrics you thought were helpful. Everything is ready for a data scientist
+to analyze the data.
+
+It’s time to see if this analysis can gain insights. You can check how the users that purchased different subscription plans
+ behave. Is there any significance in aggregating only some sessions, or should we check all of them? Are there any pages
+that you would exclude from the analysis? And importantly, do you have any suggestions for further data analysis complementary 
+to
+this one that will help understand the user behavior before purchase?
